@@ -1,34 +1,26 @@
-## Welcome to GitHub Pages
+<h1>Seja bem vindo ao Coretec Tools Concreto Protendido</h1>
 
-You can use the [editor on GitHub](https://github.com/Coretectools/Bielas-e-tirantes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<table>
+<tr>
+<td style="width:70%;"><p align="justify">Está é a calculadora Coretec Tools Concreto Protendido. É uma ferramenta voltada ao estudo de peças protendidas sejam elas pré-fabricadas ou não. Esta calculadora conta com sistemas para cálculo de perda de protensão dimensionamento e detalhamento de vigas de concreto em concreto protendido.</p></td>
+<td style="width:30%;"><img src="logo.png"/></td>  
+</tr>
+</table>  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_**Desenvolvedores**_  
 
-### Markdown
+**Equipe de desenvolvimento**   
+- [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)  
+- [Eng. Civil Walfrido do Vale]()  
+- [Eng. Civil Carlos Magno Carneiro]()  
+- [Progr. Walter Albergaria Júnior]()  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_**Sumário**_  
+1.0 - Calculadoras  
+1.1 - [Concreto Protendido: Perda por atrito](https://wmpjrufg.github.io/Concreto-Protendido-Manual/CTCP0001ATRITO.html)   
+1.2 - [Concreto Protendido: Perda por escorregamento na pré-tração](https://wmpjrufg.github.io/Concreto-Protendido-Manual/CTCP0002ESCORR.html)   
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
+<p align="justify">Qualquer sugestão ou relatório de erro no funcionamento da ferramenta, por favor nos informe por e-mail: <b><i>wanderlei_junior@ufcat.edu.br</i></b>. Teremos o maior prazer em melhorar a plataforma.</p>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Coretectools/Bielas-e-tirantes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
